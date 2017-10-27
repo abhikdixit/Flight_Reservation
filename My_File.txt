@@ -1,2 +1,6 @@
 I am adding data in your file.
+<<<<<<< HEAD
 Adding data from 1st File.
+=======
+This is new change in file.
+>>>>>>> 0b4bf96763cb52083d83a961e89037e7c6ae52b8
